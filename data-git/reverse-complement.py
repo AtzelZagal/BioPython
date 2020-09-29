@@ -49,3 +49,5 @@ sequence = sequence.upper()
 # Dictionary containing the complement equivalents
 sequence = sequence[::-1].translate(str.maketrans({'A': 'T', 'T': 'A', 'C': 'G', 'G': 'C'}))
 print ('{}'.format(sequence))
+
+print("Hello World")

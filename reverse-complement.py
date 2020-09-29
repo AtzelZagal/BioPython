@@ -7,6 +7,7 @@ VERSION
     
 AUTHOR
 	Hely Salgado
+	Axel Zagal
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
